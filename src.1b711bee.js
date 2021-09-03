@@ -9,4 +9,4 @@ const t=(t,n)=>Math.floor(Math.random()*(n-t+1)+t),n=n=>new Promise((o,a)=>{cons
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./partials/firstTask"),require("./partials/secondTask"),require("./partials/thirdTask");
 },{"./sass/main.scss":"clu1","./partials/firstTask":"Y2mC","./partials/secondTask":"drXu","./partials/thirdTask":"jE6m"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.0fd06754.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.1b711bee.js.map
